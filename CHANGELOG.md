@@ -1,3 +1,7 @@
+# v1.0.3
+- Add Hide Following Tab
+- Hide Retweet Content
+
 # v1.0.2
 - Add Hide View Count
 - Add Fake Twitter Blue
