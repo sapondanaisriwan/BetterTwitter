@@ -61,7 +61,7 @@ Support me: https://ko-fi.com/sapondanaisriwan
     }
 
     /* Scroll Bar */
-/*         ::-webkit-scrollbar {
+    /*         ::-webkit-scrollbar {
         width: 10px;
     }
 
@@ -74,7 +74,6 @@ Support me: https://ko-fi.com/sapondanaisriwan
         border-radius: 30px;
         background-color: var(--blue);
     } */
-
     .r-1ye8kvj {
         max-width: test;
     }
@@ -128,15 +127,13 @@ Support me: https://ko-fi.com/sapondanaisriwan
             align-self: unset;
         }
 
-        [aria-label="Image"] {
-            .r-vvn4in {
-                filter: blur(15px);
-            }
+        .r-vvn4in {
+            filter: blur(15px);
+        }
 
-            img.css-9pa8cd {
-                object-fit: contain i;
-                opacity: 1;
-            }
+        img.css-9pa8cd {
+            object-fit: contain i;
+            opacity: 1;
         }
     }
 
